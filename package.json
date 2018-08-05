@@ -1,0 +1,22 @@
+{
+  "name": "react-two-way-bind",
+  "version": "0.0.1",
+  "description": "Higher Order Component to two-way bind an input element to the calling parent's state",
+  "main": "twoWayBind.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "twowaybind",
+    "two-way-binding",
+    "binding",
+    "hoc",
+    "higher-order-component"
+  ],
+  "author": "InteracSean",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">= 15.x"
+  }
+}
